@@ -27,7 +27,6 @@ The system analyzes currency note images and classifies them as **genuine or cou
 - Python
 - Deep Learning (CNN)
 - TensorFlow / Keras
-- OpenCV
 - NumPy & Pandas
 - Jupyter Notebook
 
